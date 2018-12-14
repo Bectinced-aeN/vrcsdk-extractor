@@ -10,4 +10,5 @@ This is a utility to extract the vrcsdk packages to an easier to manage format, 
 4. run `./decompile.sh` inside the project folder
 
 when its done the files will be in the `output` folder
+
 note. all embedded .dll files will be extracted into {filename}-dll folders and the original dll files will be deleted.
